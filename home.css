@@ -1,0 +1,183 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+    background : url(https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/129325364/original/afaddcb9d7dfaaf5bff7ef04101935814665ac16/design-an-attractive-background-for-your-website.png);
+    background-size: 1440px 844px; 
+    background-repeat: no-repeat;
+    font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+  }
+ 
+  .topnav {
+    overflow: hidden;
+    margin-top: 30px;
+    position:fixed;
+    width: 1440px;
+    height: 47px;
+    background-color: rgb(36, 36, 44);
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+  .topnav .logo{
+    display: inline-block;
+    position: absolute;
+    height: 47px;
+    width: 100px;
+  }
+
+  .topnav .logo img{
+    width: 100px;
+    height: 60px;
+  }
+
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: rgb(10, 136, 43);
+    color: white;
+    margin-left: 100px;
+  }
+
+  .topnav a.log {
+    margin-left: 800px;
+  }
+
+  .content{
+    color: white;
+    background-color: rgb(34 48 66);
+    border-radius: 10px;
+    display: inline-block;
+    width:60%;
+    margin-top: 120px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 20px;
+  }
+
+  .content .ch{
+    font-weight: bold;
+    padding: 20px;
+    color: rgb(10, 136, 43);
+  }
+
+  .content p{
+    padding: 20px;
+    font-size: 20px;
+    background-color: rgb(36, 36, 44);
+  }
+
+  .content1{
+    color: white;
+    background-color: rgb(34 48 66);
+    border-radius: 10px;
+    display: inline-block;
+    width:60%;
+    margin-top: 50px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 20px;
+  }
+
+  .content1 .ch1{
+    font-weight: bold;
+    padding: 20px;
+    color: rgb(10, 136, 43);
+  }
+
+  .content1 p{
+    padding: 20px;
+    font-size: 20px;
+    background-color: rgb(36, 36, 44);
+  }
+
+  #bend{
+    margin-top:45px;
+    height:400px;
+  }
+
+  .idc2{
+    background-color: rgb(36, 36, 44);
+
+}
+
+#lbend1{
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  display:inline-block;
+  margin-left:70px;
+  margin-top:20px;
+  width:22%;
+  height:275px;
+}
+
+.lbend1{
+  padding: 7px;
+}
+
+#lbend1 img{
+  padding: 10px;
+  height: 120px;
+  width: 210px;
+}
+
+#SAJAL{
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    display:inline-block;
+    margin-left:150px;
+    margin-top:80px;
+    width:20%;
+    height:275px;
+}
+#ANTRIKSH{
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    display:inline-block;
+    height:275px;
+    margin-left:30px;
+    margin-top:30px;
+    width: 20%;
+}
+#KARTIKEY{
+    color:white;
+    display:inline-block;
+    width: 15%;
+    height:275px;
+    margin-left:30px;
+    margin-top:30px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.bend1{
+  padding: 10px;
+}
+
+.bend1:hover{
+  color: rgb(10, 136, 43);
+  cursor: pointer;
+}
+
+.hbend{
+  padding-bottom: 20px;
+  color: rgb(10, 136, 43);
+}
+
